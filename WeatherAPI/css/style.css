@@ -1,3 +1,4 @@
+
 .weather-container {
     background: #ccc;
     text-align: center;
@@ -26,4 +27,35 @@
     font-size: 45px;
     font-weight: bold;
 }
+
+
+.weather-container {
+    background: #ccc;
+    text-align: center;
+    width: 45%;
+    margin: auto;
+}
+
+.weather {
+    font-size: 30px;
+    margin: 0;
+}
+
+.temp {
+    font-size: 60px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.bg {
+    text-align: center;
+    font-size: 40px;
+    background: rgba(24, 189, 134, 0.589);
+}
+
+#demo {
+    font-size: 45px;
+    font-weight: bold;
+}
+
 
