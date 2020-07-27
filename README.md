@@ -5,5 +5,4 @@ Hello and welcome to Developer Student Club (DSC) Api Workshop. Today, let's exp
 Slides for this workshop is located [here](https://docs.google.com/presentation/d/1n534cOfTUncHwR44fZR5vChqKCD8tLFvMx8ZlVwDzPs/edit).
 
 - To download the code
-I think you should use an
-`<addr>` element here instead.
+`<git clone https://github.com/DSC-CSUF/api-workshop.git>`
