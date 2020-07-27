@@ -23,7 +23,7 @@ The [WeatherAPI](https://github.com/DSC-CSUF/api-workshop/tree/master/WeatherAPI
 * ### After browser-sync is installed, use this command to view your project on Google Chrome:
   * `browser-sync start --server --browser "Google Chrome" --files "stylesheets/*.css, *.html"`
  
- * ### If Chrome is your default browser, then use this:
+* ### If Chrome is your default browser, then use this:
   * `browser-sync start --server --files "stylesheets/*.css, *.html"`
   
   ## For students using Windows, after you download this repository on your computer, you should be able to view your project on chrome by clicking index (which is your index.html):
