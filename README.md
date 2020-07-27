@@ -34,7 +34,5 @@ The [WeatherAPI](https://github.com/DSC-CSUF/api-workshop/tree/master/WeatherAPI
 * [Discord]()
 * [Slack]()
 
-## Visit our [website](http://www.dsccsuf.com/)
-
-
-
+**Visit our [website](http://www.dsccsuf.com/)**
+This workshop is created by Developer Student Club Technical Leads - Sagar Joshi and Sam Sandoval.
