@@ -31,9 +31,10 @@ The [WeatherAPI](https://github.com/DSC-CSUF/api-workshop/tree/master/WeatherAPI
 ## This makes it easier as you can refresh your browser's page anytime you save or change anything while you are coding.
 
 ## Thank you for checking out our workshop. If you would like, connect with us and join the Developer Student Club through:
-* [Our website](http://www.dsccsuf.com/)
 * [Discord]()
 * [Slack]()
+
+## Visit our [website](http://www.dsccsuf.com/)
 
 
 
