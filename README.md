@@ -18,7 +18,7 @@ The [WeatherAPI](https://github.com/DSC-CSUF/api-workshop/tree/master/WeatherAPI
 
   * `sudo npm install -g browser-sync`
 
-* ## After broswer-sync is installed, use the `browser-sync` to view your project on google chrome
+## After broswer-sync is installed, use the `browser-sync` to view your project on google chrome
 
 
 
