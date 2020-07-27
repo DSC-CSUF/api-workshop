@@ -10,11 +10,11 @@ The [Starter-Code](https://github.com/DSC-CSUF/api-workshop/tree/master/Starter-
 
 The [WeatherAPI](https://github.com/DSC-CSUF/api-workshop/tree/master/WeatherAPI) file contains the finish product, so you can look back and check to see if you made any mistakes.
 
-## To download the code for this workshop, Copy and Paste this command into terminal;
+## To download the code for this workshop, Copy and Paste this command into terminal:
 
-`git clone https://github.com/DSC-CSUF/api-workshop.git`
+* `git clone https://github.com/DSC-CSUF/api-workshop.git`
 
-## For students using Tuffix/Mac/Linux, use the following commands to view your update your browser while you code
+## For students using Tuffix/Mac/Linux, use the following commands that updates your browser while you code
 
 * ### Install *browser-sync* by copying this command into terminal: 
 
@@ -28,7 +28,7 @@ The [WeatherAPI](https://github.com/DSC-CSUF/api-workshop/tree/master/WeatherAPI
   
 ## For students using Windows, after you download this repository on your computer, you should be able to view your project on chrome by clicking index (which is your index.html):
 ![Screenshot 2020-07-27 00 07 02](https://user-images.githubusercontent.com/55200206/88515938-56226380-cfa1-11ea-9aa5-77f017f755bc.png)
-## This makes it easier as you can refresh your browser's page anytime you save or change anything while you are coding.
+## This makes it easier as you can refresh your browser's page anytime you save or change anything while you are coding. ##
 
 ## Thank you for checking out our workshop. If you would like, connect with us and join the Developer Student Club through:
 * [Discord]()
