@@ -14,9 +14,9 @@ The [WeatherAPI](https://github.com/DSC-CSUF/api-workshop/tree/master/WeatherAPI
 
 ## For students using Tuffix/Mac, use the following commands to view your update your browser while you code
 
-## Install *browser-sync* using this command at the command line: 
+* ### Install *browser-sync* using this command at the command line: 
 
-`sudo npm install -g browser-sync`
+** `sudo npm install -g browser-sync`
 
 ## After broswer-sync is installed, use the `browser-sync` to view your project on google chrome
 
