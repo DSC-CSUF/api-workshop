@@ -30,4 +30,10 @@ The [WeatherAPI](https://github.com/DSC-CSUF/api-workshop/tree/master/WeatherAPI
 ![Screenshot 2020-07-27 00 07 02](https://user-images.githubusercontent.com/55200206/88515938-56226380-cfa1-11ea-9aa5-77f017f755bc.png)
 
 
+## Thank you for checking out our workshop. If you would like, connect with us and join the Developer Student Club:
+[Our website](http://www.dsccsuf.com/)
+[Discord]()
+[Slack]()
+
+
 
