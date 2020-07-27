@@ -21,7 +21,7 @@ The [WeatherAPI](https://github.com/DSC-CSUF/api-workshop/tree/master/WeatherAPI
   * `sudo npm install -g browser-sync`
 
 * ### After browser-sync is installed, use this command to view your project on Google Chrome:
- * `browser-sync start --server --browser "Google Chrome" --files "stylesheets/*.css, *.html"`
+  * `browser-sync start --server --browser "Google Chrome" --files "stylesheets/*.css, *.html"`
  
  * ### If Chrome is your default browser, then use this:
   * `browser-sync start --server --files "stylesheets/*.css, *.html"`
