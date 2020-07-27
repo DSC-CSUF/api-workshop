@@ -1,4 +1,4 @@
-![images](https://user-images.githubusercontent.com/55200206/88516059-8e29a680-cfa1-11ea-9299-03b7408868ad.jpg)
+![images](https://user-images.githubusercontent.com/55200206/88516059-8e29a680-cfa1-11ea-9299-03b7408868ad.jpg) | width=200
 
 # Developer Student Club (DSC) API Workshop
 
