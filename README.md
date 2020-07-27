@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzCAs1iV38zpYu5fvS46BEl5evrGaMywe38g&usqp=CAU" width="500px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzCAs1iV38zpYu5fvS46BEl5evrGaMywe38g&usqp=CAU" width="1000px">
 
 # Developer Student Club (DSC) API Workshop
 
