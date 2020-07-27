@@ -1,6 +1,3 @@
-
-/*var city = "Paris";*/
-
 var city = prompt("Please enter a city", "San Francisco");
 
 $.getJSON("http://api.openweathermap.org/data/2.5/weather?q=" + city + "&units=imperial&appid=dc9395065ccb80beb2c407ca184c8826", 
