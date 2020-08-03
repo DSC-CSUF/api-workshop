@@ -10,7 +10,7 @@ The [Starter-Code](https://github.com/DSC-CSUF/api-workshop/tree/master/Starter-
 
 The [WeatherAPI](https://github.com/DSC-CSUF/api-workshop/tree/master/WeatherAPI) file contains the finish product, so you can look back and check to see if you made any mistakes.
 
-**Please before we start coding, please create a free account at [OpenWeatherApp](https://openweathermap.org/). Directions will be located [here]()**
+*Please before we start coding, please create a free account at [OpenWeatherApp](https://openweathermap.org/). Directions will be located [here]()*
 
 ## To download the code for this workshop, Copy and Paste this command into terminal:
 
