@@ -1,6 +1,5 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTzCAs1iV38zpYu5fvS46BEl5evrGaMywe38g&usqp=CAU" width="400px">
 
-# Developer Student Club (DSC) API Workshop
+# Intro to APIs Workshop
 
 Hello and welcome to Developer Student Club (DSC) First Virtual Workshop. Today, let's explore on the concept of API's (Application Programming Interface).
 
@@ -33,8 +32,7 @@ The [WeatherAPI](https://github.com/DSC-CSUF/api-workshop/tree/master/WeatherAPI
 **This makes it easier as you can refresh your browser's page anytime you save or change anything while you are coding.**
 
 ## Thank you for checking out our workshop. If you would like, connect with us and join the Developer Student Club through:
-* [Discord]()
-* [Slack]()
+* [Discord](https://discord.gg/kRr36Pa)
 
 **Visit our [website](http://www.dsccsuf.com/)**.
 
