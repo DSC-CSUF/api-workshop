@@ -11,7 +11,7 @@ The [WeatherAPI](https://github.com/DSC-CSUF/api-workshop/tree/master/WeatherAPI
 
 *Please before we start coding, please create a free account at [OpenWeatherApp](https://openweathermap.org/). Directions will be located [here](https://github.com/DSC-CSUF/api-workshop/blob/master/directions.md)*.
 
-*Also, have a text editor downloaded on your computer before cloning this repository. You can use whichever text editor of your choosing (Atom, Sublime, Notepad++), for this
+*Also, have a text editor downloaded on your computer before cloning this repository. You can use whichever text editor of your choosing (Atom, Sublime, Notepad++). For this
 demonstration, I will be using Visual Studio Code.*
 
 ## To download the code for this workshop, Copy and Paste this command into terminal:
